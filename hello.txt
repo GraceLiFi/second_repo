@@ -1,2 +1,4 @@
 hello, git!
-hello, world! 
+<<<<<<< HEAD
+hello there world. 
+>>>>>>> 024fbe367cb99423267183ef816daf1736359745
